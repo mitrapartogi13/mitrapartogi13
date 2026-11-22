@@ -29,7 +29,7 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**web-portofolio**](https://github.com/mitrapartogi13/web-portofolio) | My personal portfolio site · [live](https://mpartogi.vercel.app) | Next.js 16, React 19, Tailwind v4 |
-| [**wanigo-web**](https://github.com/mitrapartogi13/wanigo-web) & [**WANIGO_NASABAH**](https://github.com/mitrapartogi13/WANIGO_NASABAH) | WANIGO web app and mobile app for customers · [live](https://wanigo-web.vercel.app) | TypeScript, Flutter |
+| [**wanigo-web**](https://github.com/mitrapartogi13/wanigo-web) & [**WANIGO_NASABAH**](https://github.com/mitrapartogi13/WANIGO_NASABAH) | WANIGO web app and mobile app for customers | TypeScript, Flutter |
 | [**fp-kka**](https://github.com/mitrapartogi13/fp-kka) | DFS, BFS, UCS and A* search algorithms for a Pac-Man style game | Python |
 | [**competitive-programming**](https://github.com/mitrapartogi13/competitive-programming) | My solutions to competitive programming problems | C++ |
 
