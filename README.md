@@ -36,5 +36,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,go,python,cpp,c,dart,flutter,git,linux,vercel&perline=8" alt="Tech stack" />
 </p>
-
-<p align="center"><sub>Pixel art drawn by <a href="scripts/build.py">scripts/build.py</a> · refreshed every 6 hours by GitHub Actions</sub></p>
